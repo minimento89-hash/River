@@ -1,2 +1,1 @@
-# River
-River - AI Development Assistant
+# Welcome to your Dyad app
